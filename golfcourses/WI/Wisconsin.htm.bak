@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie6" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" lang="en-US"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9" lang="en-US"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+
+	<title>  Wisconsin</title>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://www.thegolfcourses.net/golf/xmlrpc.php" />
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<link rel='stylesheet' id='at-color-css'  href='http://862b55c7fa7ae6a26bf5-2822c6276af82d0d3b27c103875b5261.r77.cf1.rackcdn.com/blue_1.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thegolfcourses.net/golf/wp-content/themes/vantage/scripts/html5.js?ver=3'></script>
+<script type='text/javascript' src='http://www.thegolfcourses.net/golf/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.thegolfcourses.net/golf/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.thegolfcourses.net/golf/wp-content/themes/vantage/scripts/jquery.tinynav.js?ver=1.1'></script>
+<link rel='canonical' href='http://www.thegolfcourses.net/golfcourses/WI/Wisconsin.htm' />
+<link rel="shortcut icon" href="http://www.thegolfcourses.net/golf/wp-content/themes/vantage/images/favicon.ico" />
+<style type="text/css">
+body.custom-background { background-color: #212121; background-image: url('http://www.thegolfcourses.net/golf/wp-content/uploads/2014/03/GolfCoursesHeader3.jpg'); background-repeat: no-repeat; background-position: top center; background-attachment: scroll; }
+</style>
+
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.thegolfcourses.net/golf/wp-content/themes/vantage-tgcn-childtheme/style.css" />
+</head>
+
+<body onload="LoadMap()" onunload="UnloadMap()" class="single single-stateabbrev postid-186122 custom-background not-logged-in" itemscope itemtype="http://schema.org/WebPage">
+
+	
+		<div id="masthead" class="container">
+	<div class="row">
+		<hgroup>
+				<h1 id="site-title">
+		<a href="http://www.thegolfcourses.net/" class="custom-header-image" style="height:65px;width:724px;background: transparent url('http://www.thegolfcourses.net/golf/wp-content/uploads/2014/03/cropped-GolfCoursesTitle3.png') no-repeat 0 0;">TheGolfCourses.Net</a>
+	</h1>
+			</hgroup>
+			</div>
+</div>
+<div id="main-navigation" class="container">
+	<div class="row">
+		<div id="rounded-nav-box" class="rounded">
+			<div id="rounded-nav-box-overlay">
+					<script type="text/javascript">
+		jQuery('#navigation').tinyNav({
+			active: 'current-menu-item',
+			header: 'Navigation',
+			header_href: 'http://www.thegolfcourses.net/',
+			indent: '-',
+			excluded: ['#adv_categories_listing', '#adv_categories_event']
+		});
+	</script>
+								<form method="get" action="http://www.thegolfcourses.net/">
+					<div id="main-search">
+						<div class="search-for">
+							<label for="search-text">
+								<span class="search-title">Search For</span><span class="search-help">  (course name)</span>
+															</label>
+							<div class="input-cont h39">
+								<div class="left h39"></div>
+								<div class="mid h39">
+									<input type="text" name="ls" id="search-text" class="text" value="" />
+								</div>
+								<div class="right h39"></div>
+							</div>
+						</div>
+
+						<div class="search-location">
+							<label for="search-location">
+								<span class="search-title">Near </span><span class="search-help">(city, state)</span>
+							</label>
+							<div class="input-cont h39">
+								<div class="left h39"></div>
+								<div class="mid h39">
+									<input type="text" name="location" id="search-location" class="text" value="" />
+								</div>
+								<div class="right h39"></div>
+							</div>
+						</div>
+
+						<div class="search-button">
+							<button type="submit" id="search-submit" class="rounded-small">Search</button>
+						</div>
+					</div>
+									</form>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div id="breadcrumbs" class="container">
+	<div class="row">
+		<div class="breadcrumb breadcrumbs"><div class="breadcrumb-trail" itemprop="breadcrumb"><a href="http://www.thegolfcourses.net" rel="home" class="trail-begin"><img src="http://www.thegolfcourses.net/golf/wp-content/themes/vantage/images/breadcrumb-home.png" /></a><a href="http://www.thegolfcourses.net" rel="home" class="trail-begin"> United States</a> -> <span style='font-weight: bold; color: #ddd'>Wisconsin</span></div></div>	</div>
+</div>
+	
+	<div id="content" class="container">
+				<div id="content-mid" class="row rounded">
+			<div id="content-inner" class="rounded">
+
+				<div id="main">
+
+	
+	
+	
+	<article id="post-186122" class="post-186122 stateabbrev type-stateabbrev status-publish hentry">
+		
+						<div class="section-head"><h1>Golf Courses in Wisconsin</h1></div>
+						
+		
+		<section class="overview">
+						<div style="padding-right:50px;padding-left:50px;font-size:10pt;">
+			<div id="attachment_187440" style="width: 555px" class="wp-caption alignleft"><a href="http://www.kqzyfj.com/click-7166234-11656728?url=http%3A%2F%2Fwww.golf18network.com%2Fbooking_widget.php%3Faffiliate_id%3Dcj%26course_id%3D3158"><img class="size-full wp-image-187440 " alt="RidgesGC" src="http://www.thegolfcourses.net/golf/wp-content/uploads/2014/07/RidgesGC.jpg" width="545" height="272" /></a><p class="wp-caption-text">Ridges Golf Course, Wisconsin Rapids, WI</p></div>
+<p>Believe it or not, in Wisconsin you can enjoy the pleasure of golf in one form or another all year around! Thanks to Madison&#8217;s <a href="http://www.thegolfcourses.net/golfcourses/WI/860830.htm">Vitense&#8217;s Golfland</a>. It&#8217;s a 20,000 square foot facility called a golfer&#8217;s amusement park offering a driving range, lessons and a 3-par course. It also offers a climbing wall and batting cages. It&#8217;s perfect for that athletic person in your life and open year around. Wisconsin offers many low cost golf rates at good courses. Check out the courses in the <a href="http://www.golffacility.com/search.asp?OID=388&amp;AID=155">Geneva Lakes Area</a>, such as <a href="879730.htm">The Brute at Grand Geneva</a>, the beautiful <a href="http://www.dpbolvw.net/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Fmadison%2Fsite%2F91.php">Madison area</a>, and the <a href="http://www.jdoqocy.com/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Fgreen-bay%2Fsite%2F53.php">Green Bay Area</a>. These areas are some of the most gorgeous golfing destinations in the country, not to mention the state of Wisconsin. Once again this state has many places of natural woodland beauty. However, if you&#8217;re in the <a href="http://www.anrdoezrs.net/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Fmilwaukee%2Fsite%2F54.php">Milwaukee Area</a>, you won&#8217;t want to miss <a href="2570.htm">The Golf Club at Camelot</a> or <a href="2486.htm">Quit-Qui-Oc</a> in Elkhart Lake.</p>
+<hr />
+			</div>
+			<div style="clear:both; width:90%; margin:auto; padding-top:30px; padding-bottom: 50px; text-align: center;"><h3 style="font: 1.5em Georgia, serif !important;">Choose a City Below</h3><hr>
+			<style scoped=""> ol > li {display: inline-block; width: 120px; padding: 10px; padding-bottom:12px; padding-top:12px; vertical-align:middle; font-size:12pt; text-align: left;}</style>
+				<ol><li><a href='/golfcourses/WI/Abrams.htm'> Abrams</a></li><li><a href='/golfcourses/WI/Almond.htm'> Almond</a></li><li><a href='/golfcourses/WI/Altoona.htm'> Altoona</a></li><li><a href='/golfcourses/WI/Amery.htm'> Amery</a></li><li><a href='/golfcourses/WI/Antigo.htm'> Antigo</a></li><li><a href='/golfcourses/WI/Appleton.htm'> Appleton</a></li><li><a href='/golfcourses/WI/ArborVitae.htm'> Arbor Vitae</a></li><li><a href='/golfcourses/WI/Arcadia.htm'> Arcadia</a></li><li><a href='/golfcourses/WI/Arkdale.htm'> Arkdale</a></li><li><a href='/golfcourses/WI/Ashland.htm'> Ashland</a></li><li><a href='/golfcourses/WI/Athelstane.htm'> Athelstane</a></li><li><a href='/golfcourses/WI/Avalon.htm'> Avalon</a></li><li><a href='/golfcourses/WI/BaileysHarbor.htm'> Baileys Harbor</a></li><li><a href='/golfcourses/WI/BalsamLake.htm'> Balsam Lake</a></li><li><a href='/golfcourses/WI/Baraboo.htm'> Baraboo</a></li><li><a href='/golfcourses/WI/Barneveld.htm'> Barneveld</a></li><li><a href='/golfcourses/WI/Barron.htm'> Barron</a></li><li><a href='/golfcourses/WI/Bayfield.htm'> Bayfield</a></li><li><a href='/golfcourses/WI/BeaverDam.htm'> Beaver Dam</a></li><li><a href='/golfcourses/WI/Beloit.htm'> Beloit</a></li><div style="width:728;height:90px; float:left;"><!-- GolfCourse 728 x 90 2014 --><ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9263042208131521"
+     data-ad-slot="8306636699"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><li><a href='/golfcourses/WI/Berlin.htm'> Berlin</a></li><li><a href='/golfcourses/WI/BigBend.htm'> Big Bend</a></li><li><a href='/golfcourses/WI/Birchwood.htm'> Birchwood</a></li><li><a href='/golfcourses/WI/BlackRiverFalls.htm'> Black River Falls</a></li><li><a href='/golfcourses/WI/Blanchardville.htm'> Blanchardville</a></li><li><a href='/golfcourses/WI/Bloomer.htm'> Bloomer</a></li><li><a href='/golfcourses/WI/BoulderJunction.htm'> Boulder Junction</a></li><li><a href='/golfcourses/WI/Brillion.htm'> Brillion</a></li><li><a href='/golfcourses/WI/Bristol.htm'> Bristol</a></li><li><a href='/golfcourses/WI/Brodhead.htm'> Brodhead</a></li><li><a href='/golfcourses/WI/Brookfield.htm'> Brookfield</a></li><li><a href='/golfcourses/WI/Bruce.htm'> Bruce</a></li><li><a href='/golfcourses/WI/Burlington.htm'> Burlington</a></li><li><a href='/golfcourses/WI/Cable.htm'> Cable</a></li><li><a href='/golfcourses/WI/Cadott.htm'> Cadott</a></li><li><a href='/golfcourses/WI/Caledonia.htm'> Caledonia</a></li><li><a href='/golfcourses/WI/Cambridge.htm'> Cambridge</a></li><li><a href='/golfcourses/WI/Campbellsport.htm'> Campbellsport</a></li><li><a href='/golfcourses/WI/Cato.htm'> Cato</a></li><li><a href='/golfcourses/WI/Cecil.htm'> Cecil</a></li><li><a href='/golfcourses/WI/Cedarburg.htm'> Cedarburg</a></li><li><a href='/golfcourses/WI/Chetek.htm'> Chetek</a></li><li><a href='/golfcourses/WI/Chilton.htm'> Chilton</a></li><li><a href='/golfcourses/WI/ChippewaFalls.htm'> Chippewa Falls</a></li><li><a href='/golfcourses/WI/ClearLake.htm'> Clear Lake</a></li><li><a href='/golfcourses/WI/Clintonville.htm'> Clintonville</a></li><li><a href='/golfcourses/WI/Cochrane.htm'> Cochrane</a></li><li><a href='/golfcourses/WI/Colfax.htm'> Colfax</a></li><li><a href='/golfcourses/WI/Columbus.htm'> Columbus</a></li><li><a href='/golfcourses/WI/CottageGrove.htm'> Cottage Grove</a></li><li><a href='/golfcourses/WI/Crivitz.htm'> Crivitz</a></li><li><a href='/golfcourses/WI/CubaCity.htm'> Cuba City</a></li><li><a href='/golfcourses/WI/Cudahy.htm'> Cudahy</a></li><li><a href='/golfcourses/WI/Cumberland.htm'> Cumberland</a></li><li><a href='/golfcourses/WI/Dallas.htm'> Dallas</a></li><li><a href='/golfcourses/WI/Danbury.htm'> Danbury</a></li><li><a href='/golfcourses/WI/Darlington.htm'> Darlington</a></li><li><a href='/golfcourses/WI/DePere.htm'> De Pere</a></li><li><a href='/golfcourses/WI/Deerbrook.htm'> Deerbrook</a></li><li><a href='/golfcourses/WI/Delafield.htm'> Delafield</a></li><li><a href='/golfcourses/WI/Delavan.htm'> Delavan</a></li><li><a href='/golfcourses/WI/Denmark.htm'> Denmark</a></li><li><a href='/golfcourses/WI/Dousman.htm'> Dousman</a></li><li><a href='/golfcourses/WI/Durand.htm'> Durand</a></li><li><a href='/golfcourses/WI/Eagle.htm'> Eagle</a></li><li><a href='/golfcourses/WI/EagleRiver.htm'> Eagle River</a></li><li><a href='/golfcourses/WI/EastTroy.htm'> East Troy</a></li><li><a href='/golfcourses/WI/EauClaire.htm'> Eau Claire</a></li><li><a href='/golfcourses/WI/Edgerton.htm'> Edgerton</a></li><li><a href='/golfcourses/WI/EggHarbor.htm'> Egg Harbor</a></li><li><a href='/golfcourses/WI/ElkhartLake.htm'> Elkhart Lake</a></li><li><a href='/golfcourses/WI/Elkhorn.htm'> Elkhorn</a></li><li><a href='/golfcourses/WI/Ellsworth.htm'> Ellsworth</a></li><li><a href='/golfcourses/WI/Ephraim.htm'> Ephraim</a></li><li><a href='/golfcourses/WI/Ettrick.htm'> Ettrick</a></li><li><a href='/golfcourses/WI/Evansville.htm'> Evansville</a></li><li><a href='/golfcourses/WI/Fennimore.htm'> Fennimore</a></li><li><a href='/golfcourses/WI/Florence.htm'> Florence</a></li><li><a href='/golfcourses/WI/FondDuLac.htm'> Fond Du Lac</a></li><li><a href='/golfcourses/WI/Fontana.htm'> Fontana</a></li><li><a href='/golfcourses/WI/FortAtkinson.htm'> Fort Atkinson</a></li><li><a href='/golfcourses/WI/FoxLake.htm'> Fox Lake</a></li><li><a href='/golfcourses/WI/Franklin.htm'> Franklin</a></li><li><a href='/golfcourses/WI/Franksville.htm'> Franksville</a></li><li><a href='/golfcourses/WI/Frederic.htm'> Frederic</a></li><li><a href='/golfcourses/WI/Friendship.htm'> Friendship</a></li><li><a href='/golfcourses/WI/GenoaCity.htm'> Genoa City</a></li><li><a href='/golfcourses/WI/Germantown.htm'> Germantown</a></li><li><a href='/golfcourses/WI/Gleason.htm'> Gleason</a></li><li><a href='/golfcourses/WI/GlenwoodCity.htm'> Glenwood City</a></li><li><a href='/golfcourses/WI/Gordon.htm'> Gordon</a></li><li><a href='/golfcourses/WI/Grafton.htm'> Grafton</a></li><li><a href='/golfcourses/WI/Grantsburg.htm'> Grantsburg</a></li><li><a href='/golfcourses/WI/GreenBay.htm'> Green Bay</a></li><li><a href='/golfcourses/WI/GreenLake.htm'> Green Lake</a></li><li><a href='/golfcourses/WI/Greenleaf.htm'> Greenleaf</a></li><li><a href='/golfcourses/WI/Greenville.htm'> Greenville</a></li><li><a href='/golfcourses/WI/Gresham.htm'> Gresham</a></li><li><a href='/golfcourses/WI/HalesCorners.htm'> Hales Corners</a></li><li><a href='/golfcourses/WI/Hammond.htm'> Hammond</a></li><div style="width:728;height:90px; float:left;"><!-- GolfCourse 728 x 90 2014 --><ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9263042208131521"
+     data-ad-slot="8306636699"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><li><a href='/golfcourses/WI/Harshaw.htm'> Harshaw</a></li><li><a href='/golfcourses/WI/Hartford.htm'> Hartford</a></li><li><a href='/golfcourses/WI/Hartland.htm'> Hartland</a></li><li><a href='/golfcourses/WI/Hayward.htm'> Hayward</a></li><li><a href='/golfcourses/WI/Holcombe.htm'> Holcombe</a></li><li><a href='/golfcourses/WI/Holmen.htm'> Holmen</a></li><li><a href='/golfcourses/WI/Horicon.htm'> Horicon</a></li><li><a href='/golfcourses/WI/Hortonville.htm'> Hortonville</a></li><li><a href='/golfcourses/WI/HowardsGrove.htm'> Howards Grove</a></li><li><a href='/golfcourses/WI/Hudson.htm'> Hudson</a></li><li><a href='/golfcourses/WI/Hurley.htm'> Hurley</a></li><li><a href='/golfcourses/WI/Iola.htm'> Iola</a></li><li><a href='/golfcourses/WI/IronRiver.htm'> Iron River</a></li><li><a href='/golfcourses/WI/Janesville.htm'> Janesville</a></li><li><a href='/golfcourses/WI/Jefferson.htm'> Jefferson</a></li><li><a href='/golfcourses/WI/Kansasville.htm'> Kansasville</a></li><li><a href='/golfcourses/WI/Kaukauna.htm'> Kaukauna</a></li><li><a href='/golfcourses/WI/Kenosha.htm'> Kenosha</a></li><li><a href='/golfcourses/WI/Kewaskum.htm'> Kewaskum</a></li><li><a href='/golfcourses/WI/Kewaunee.htm'> Kewaunee</a></li><li><a href='/golfcourses/WI/Kieler.htm'> Kieler</a></li><li><a href='/golfcourses/WI/Kohler.htm'> Kohler</a></li><li><a href='/golfcourses/WI/LaCrosse.htm'> La Crosse</a></li><li><a href='/golfcourses/WI/LaPointe.htm'> La Pointe</a></li><li><a href='/golfcourses/WI/Ladysmith.htm'> Ladysmith</a></li><li><a href='/golfcourses/WI/LakeGeneva.htm'> Lake Geneva</a></li><li><a href='/golfcourses/WI/LakeMills.htm'> Lake Mills</a></li><li><a href='/golfcourses/WI/LakeNebagamon.htm'> Lake Nebagamon</a></li><li><a href='/golfcourses/WI/Lakewood.htm'> Lakewood</a></li><li><a href='/golfcourses/WI/Lancaster.htm'> Lancaster</a></li><li><a href='/golfcourses/WI/LandOLakes.htm'> Land O Lakes</a></li><li><a href='/golfcourses/WI/Laona.htm'> Laona</a></li><li><a href='/golfcourses/WI/Larsen.htm'> Larsen</a></li><li><a href='/golfcourses/WI/Lodi.htm'> Lodi</a></li><li><a href='/golfcourses/WI/Lomira.htm'> Lomira</a></li><li><a href='/golfcourses/WI/Luck.htm'> Luck</a></li><li><a href='/golfcourses/WI/Luxemburg.htm'> Luxemburg</a></li><li><a href='/golfcourses/WI/Madison.htm'> Madison</a></li><li><a href='/golfcourses/WI/Manawa.htm'> Manawa</a></li><li><a href='/golfcourses/WI/Manitowoc.htm'> Manitowoc</a></li><li><a href='/golfcourses/WI/Marathon.htm'> Marathon</a></li><li><a href='/golfcourses/WI/Marinette.htm'> Marinette</a></li><li><a href='/golfcourses/WI/Marion.htm'> Marion</a></li><li><a href='/golfcourses/WI/Marshfield.htm'> Marshfield</a></li><li><a href='/golfcourses/WI/Mayville.htm'> Mayville</a></li><li><a href='/golfcourses/WI/Medford.htm'> Medford</a></li><li><a href='/golfcourses/WI/Mellen.htm'> Mellen</a></li><li><a href='/golfcourses/WI/Melrose.htm'> Melrose</a></li><li><a href='/golfcourses/WI/Menasha.htm'> Menasha</a></li><li><a href='/golfcourses/WI/MenomoneeFalls.htm'> Menomonee Falls</a></li><li><a href='/golfcourses/WI/Menomonie.htm'> Menomonie</a></li><li><a href='/golfcourses/WI/Mequon.htm'> Mequon</a></li><li><a href='/golfcourses/WI/Mercer.htm'> Mercer</a></li><li><a href='/golfcourses/WI/Merrill.htm'> Merrill</a></li><li><a href='/golfcourses/WI/Merrimac.htm'> Merrimac</a></li><li><a href='/golfcourses/WI/Middleton.htm'> Middleton</a></li><li><a href='/golfcourses/WI/Milton.htm'> Milton</a></li><li><a href='/golfcourses/WI/Milwaukee.htm'> Milwaukee</a></li><li><a href='/golfcourses/WI/MineralPoint.htm'> Mineral Point</a></li><li><a href='/golfcourses/WI/Minocqua.htm'> Minocqua</a></li><li><a href='/golfcourses/WI/Minong.htm'> Minong</a></li><li><a href='/golfcourses/WI/Mishicot.htm'> Mishicot</a></li><li><a href='/golfcourses/WI/Mondovi.htm'> Mondovi</a></li><li><a href='/golfcourses/WI/Monroe.htm'> Monroe</a></li><li><a href='/golfcourses/WI/Montello.htm'> Montello</a></li><li><a href='/golfcourses/WI/Montreal.htm'> Montreal</a></li><li><a href='/golfcourses/WI/Mosinee.htm'> Mosinee</a></li><li><a href='/golfcourses/WI/MountHoreb.htm'> Mount Horeb</a></li><li><a href='/golfcourses/WI/Mukwonago.htm'> Mukwonago</a></li><li><a href='/golfcourses/WI/Muskego.htm'> Muskego</a></li><li><a href='/golfcourses/WI/Necedah.htm'> Necedah</a></li><li><a href='/golfcourses/WI/Neenah.htm'> Neenah</a></li><li><a href='/golfcourses/WI/Neillsville.htm'> Neillsville</a></li><li><a href='/golfcourses/WI/Nekoosa.htm'> Nekoosa</a></li><li><a href='/golfcourses/WI/NewBerlin.htm'> New Berlin</a></li><li><a href='/golfcourses/WI/NewFranken.htm'> New Franken</a></li><li><a href='/golfcourses/WI/NewGlarus.htm'> New Glarus</a></li><li><a href='/golfcourses/WI/NewHolstein.htm'> New Holstein</a></li><li><a href='/golfcourses/WI/NewLisbon.htm'> New Lisbon</a></li><li><a href='/golfcourses/WI/NewLondon.htm'> New London</a></li><li><a href='/golfcourses/WI/NewRichmond.htm'> New Richmond</a></li><li><a href='/golfcourses/WI/Newton.htm'> Newton</a></li><li><a href='/golfcourses/WI/Niagara.htm'> Niagara</a></li><li><a href='/golfcourses/WI/NorthPrairie.htm'> North Prairie</a></li><li><a href='/golfcourses/WI/OakCreek.htm'> Oak Creek</a></li><li><a href='/golfcourses/WI/Oconomowoc.htm'> Oconomowoc</a></li><li><a href='/golfcourses/WI/Oconto.htm'> Oconto</a></li><li><a href='/golfcourses/WI/OcontoFalls.htm'> Oconto Falls</a></li><li><a href='/golfcourses/WI/Ogdensburg.htm'> Ogdensburg</a></li><li><a href='/golfcourses/WI/Omro.htm'> Omro</a></li><li><a href='/golfcourses/WI/Onalaska.htm'> Onalaska</a></li><li><a href='/golfcourses/WI/Oneida.htm'> Oneida</a></li><li><a href='/golfcourses/WI/Oregon.htm'> Oregon</a></li><li><a href='/golfcourses/WI/Osceola.htm'> Osceola</a></li><li><a href='/golfcourses/WI/Oshkosh.htm'> Oshkosh</a></li><li><a href='/golfcourses/WI/Osseo.htm'> Osseo</a></li><li><a href='/golfcourses/WI/Owen.htm'> Owen</a></li><li><a href='/golfcourses/WI/ParkFalls.htm'> Park Falls</a></li><li><a href='/golfcourses/WI/Pembine.htm'> Pembine</a></li><li><a href='/golfcourses/WI/Peshtigo.htm'> Peshtigo</a></li><li><a href='/golfcourses/WI/Pewaukee.htm'> Pewaukee</a></li><li><a href='/golfcourses/WI/Phelps.htm'> Phelps</a></li><li><a href='/golfcourses/WI/Phillips.htm'> Phillips</a></li><li><a href='/golfcourses/WI/Pickerel.htm'> Pickerel</a></li><li><a href='/golfcourses/WI/Plain.htm'> Plain</a></li><li><a href='/golfcourses/WI/Platteville.htm'> Platteville</a></li><li><a href='/golfcourses/WI/Plover.htm'> Plover</a></li><li><a href='/golfcourses/WI/Plymouth.htm'> Plymouth</a></li><li><a href='/golfcourses/WI/Poplar.htm'> Poplar</a></li><li><a href='/golfcourses/WI/PortWashington.htm'> Port Washington</a></li><li><a href='/golfcourses/WI/Portage.htm'> Portage</a></li><li><a href='/golfcourses/WI/Porterfield.htm'> Porterfield</a></li><li><a href='/golfcourses/WI/Pound.htm'> Pound</a></li><li><a href='/golfcourses/WI/Poynette.htm'> Poynette</a></li><li><a href='/golfcourses/WI/PrairieDuChien.htm'> Prairie Du Chien</a></li><li><a href='/golfcourses/WI/PrairieDuSac.htm'> Prairie Du Sac</a></li><li><a href='/golfcourses/WI/Prentice.htm'> Prentice</a></li><li><a href='/golfcourses/WI/Prescott.htm'> Prescott</a></li><li><a href='/golfcourses/WI/Racine.htm'> Racine</a></li><li><a href='/golfcourses/WI/Radisson.htm'> Radisson</a></li><li><a href='/golfcourses/WI/Reedsburg.htm'> Reedsburg</a></li><li><a href='/golfcourses/WI/Rhinelander.htm'> Rhinelander</a></li><li><a href='/golfcourses/WI/RiceLake.htm'> Rice Lake</a></li><li><a href='/golfcourses/WI/Richfield.htm'> Richfield</a></li><li><a href='/golfcourses/WI/RichlandCenter.htm'> Richland Center</a></li><li><a href='/golfcourses/WI/RiverFalls.htm'> River Falls</a></li><li><a href='/golfcourses/WI/RiverHills.htm'> River Hills</a></li><li><a href='/golfcourses/WI/Roberts.htm'> Roberts</a></li><li><a href='/golfcourses/WI/SaintCroixFalls.htm'> Saint Croix Falls</a></li><li><a href='/golfcourses/WI/SaintGermain.htm'> Saint Germain</a></li><li><a href='/golfcourses/WI/Salem.htm'> Salem</a></li><li><a href='/golfcourses/WI/Sarona.htm'> Sarona</a></li><li><a href='/golfcourses/WI/Saukville.htm'> Saukville</a></li><li><a href='/golfcourses/WI/Sayner.htm'> Sayner</a></li><li><a href='/golfcourses/WI/Schofield.htm'> Schofield</a></li><li><a href='/golfcourses/WI/Seymour.htm'> Seymour</a></li><li><a href='/golfcourses/WI/Shawano.htm'> Shawano</a></li><li><a href='/golfcourses/WI/Sheboygan.htm'> Sheboygan</a></li><li><a href='/golfcourses/WI/SheboyganFalls.htm'> Sheboygan Falls</a></li><li><a href='/golfcourses/WI/ShellLake.htm'> Shell Lake</a></li><li><a href='/golfcourses/WI/Sherwood.htm'> Sherwood</a></li><li><a href='/golfcourses/WI/Siren.htm'> Siren</a></li><li><a href='/golfcourses/WI/SisterBay.htm'> Sister Bay</a></li><li><a href='/golfcourses/WI/Slinger.htm'> Slinger</a></li><li><a href='/golfcourses/WI/SolonSprings.htm'> Solon Springs</a></li><li><a href='/golfcourses/WI/Somerset.htm'> Somerset</a></li><li><a href='/golfcourses/WI/SouthMilwaukee.htm'> South Milwaukee</a></li><li><a href='/golfcourses/WI/Sparta.htm'> Sparta</a></li><li><a href='/golfcourses/WI/Spooner.htm'> Spooner</a></li><li><a href='/golfcourses/WI/SpringGreen.htm'> Spring Green</a></li><li><a href='/golfcourses/WI/SpringValley.htm'> Spring Valley</a></li><li><a href='/golfcourses/WI/StevensPoint.htm'> Stevens Point</a></li><li><a href='/golfcourses/WI/Stoughton.htm'> Stoughton</a></li><li><a href='/golfcourses/WI/Stratford.htm'> Stratford</a></li><li><a href='/golfcourses/WI/Strum.htm'> Strum</a></li><li><a href='/golfcourses/WI/SturgeonBay.htm'> Sturgeon Bay</a></li><li><a href='/golfcourses/WI/Sturtevant.htm'> Sturtevant</a></li><li><a href='/golfcourses/WI/SunPrairie.htm'> Sun Prairie</a></li><li><a href='/golfcourses/WI/Superior.htm'> Superior</a></li><li><a href='/golfcourses/WI/Suring.htm'> Suring</a></li><li><a href='/golfcourses/WI/Sussex.htm'> Sussex</a></li><li><a href='/golfcourses/WI/ThreeLakes.htm'> Three Lakes</a></li><li><a href='/golfcourses/WI/Tomah.htm'> Tomah</a></li><li><a href='/golfcourses/WI/Tomahawk.htm'> Tomahawk</a></li><li><a href='/golfcourses/WI/Trempealeau.htm'> Trempealeau</a></li><li><a href='/golfcourses/WI/TurtleLake.htm'> Turtle Lake</a></li><li><a href='/golfcourses/WI/TwinLakes.htm'> Twin Lakes</a></li><li><a href='/golfcourses/WI/TwoRivers.htm'> Two Rivers</a></li><li><a href='/golfcourses/WI/UnionCenter.htm'> Union Center</a></li><li><a href='/golfcourses/WI/Valders.htm'> Valders</a></li><li><a href='/golfcourses/WI/Verona.htm'> Verona</a></li><li><a href='/golfcourses/WI/Viroqua.htm'> Viroqua</a></li><li><a href='/golfcourses/WI/Wales.htm'> Wales</a></li><li><a href='/golfcourses/WI/WashingtonIsland.htm'> Washington Island</a></li><li><a href='/golfcourses/WI/Waterford.htm'> Waterford</a></li><li><a href='/golfcourses/WI/Watertown.htm'> Watertown</a></li><li><a href='/golfcourses/WI/Waukesha.htm'> Waukesha</a></li><li><a href='/golfcourses/WI/Waunakee.htm'> Waunakee</a></li><li><a href='/golfcourses/WI/Waupaca.htm'> Waupaca</a></li><li><a href='/golfcourses/WI/Waupun.htm'> Waupun</a></li><li><a href='/golfcourses/WI/Wausau.htm'> Wausau</a></li><li><a href='/golfcourses/WI/Wautoma.htm'> Wautoma</a></li><li><a href='/golfcourses/WI/Wauwatosa.htm'> Wauwatosa</a></li><li><a href='/golfcourses/WI/Webster.htm'> Webster</a></li><li><a href='/golfcourses/WI/WestBend.htm'> West Bend</a></li><li><a href='/golfcourses/WI/WestSalem.htm'> West Salem</a></li><li><a href='/golfcourses/WI/Westby.htm'> Westby</a></li><li><a href='/golfcourses/WI/Westfield.htm'> Westfield</a></li><li><a href='/golfcourses/WI/Weyauwega.htm'> Weyauwega</a></li><li><a href='/golfcourses/WI/Whitehall.htm'> Whitehall</a></li><li><a href='/golfcourses/WI/Whitewater.htm'> Whitewater</a></li><li><a href='/golfcourses/WI/WilliamsBay.htm'> Williams Bay</a></li><li><a href='/golfcourses/WI/Windsor.htm'> Windsor</a></li><li><a href='/golfcourses/WI/Winneconne.htm'> Winneconne</a></li><li><a href='/golfcourses/WI/Winter.htm'> Winter</a></li><li><a href='/golfcourses/WI/WisconsinDells.htm'> Wisconsin Dells</a></li><li><a href='/golfcourses/WI/WisconsinRapids.htm'> Wisconsin Rapids</a></li><li><a href='/golfcourses/WI/Wittenberg.htm'> Wittenberg</a></li><li><a href='/golfcourses/WI/Wrightstown.htm'> Wrightstown</a></li><li></li><li></li><li></li><li></li></ol></div>
+					</section>
+	
+		
+
+
+	</article>
+
+	
+	
+	
+</div><!-- /#main -->
+
+<div id="sidebar" class="threecol last">
+	<div class="section-head"><h3>Wisconsin Tee Time Hotspots</h3></div><div id="golfDestinations">
+    <style scoped>p {font-size: 12pt; padding-left:30px; padding:7px;} </style>
+    <p><a href="http://www.anrdoezrs.net/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Feau-claire%2Fsite%2F291.php" target="_blank"><font class="style1">Eau Claire</font></a></p>
+    <p><a href="http://www.jdoqocy.com/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Fgreen-bay%2Fsite%2F53.php" target="_blank"><font class="style1">Green Bay</font></a></p>
+    <p><a href="http://www.anrdoezrs.net/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Fhayward%2Fsite%2F162.php" target="_blank"><font class="style1">Hayward</font></a></p>
+    <p><a href="http://www.anrdoezrs.net/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Fla-crosse%2Fsite%2F85.php" target="_blank"><font class="style1">La Crosse</font></a></p>
+    <p><a href="http://www.dpbolvw.net/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Fmadison%2Fsite%2F91.php" target="_blank"><font class="style1">Madison</font></a></p>
+    <p><a href="http://www.kqzyfj.com/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Fmarshfield%2Fsite%2F148.php" target="_blank"><font class="style1">Marshfield</font></a></p>
+    <p><a href="http://www.anrdoezrs.net/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Fmilwaukee%2Fsite%2F54.php" target="_blank"><font class="style1">Milwaukee</font></a></p>
+    <p><a href="http://www.jdoqocy.com/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Foshkosh%2Fsite%2F296.php" target="_blank"><font class="style1">Oshkosh</font></a></p>
+    <p><a href="http://www.tkqlhce.com/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Fsheboygan%2Fsite%2F183.php" target="_blank"><font class="style1">Sheboygan</font></a></p>
+    <p><a href="http://www.kqzyfj.com/click-7166234-11569752?url=http%3A%2F%2Fwww.golf18network.com%2Fwisconsin%2Fwhitewater%2Fsite%2F237.php" target="_blank"><font class="style1">Whitewater</font></a></p>
+</div>	
+	
+	<aside id="teetimeswidget1-2" class="widget TeeTimesWidget1"><div class="section-head"><h3><a href="/teetimes.htm" style="color:white; font-weight: normal;">Online Tee Time Specials</a></h3></div><div class='textwidget'>Las Vegas, Arizona, California, Florida, Hawaii, North Carolina, Atlanta, Chicago, Denver, DC, Missouri, Oklahoma, Oregon, Tennessee, Texas, Virginia, Wisconsin, and more!<p><a href='/teetimes.htm'>Online Tee Time Specials</a></div><br></aside><aside id="text-6" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Golf CourseTee Times 250 x 250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:250px;height:600px"
+     data-ad-client="ca-pub-9263042208131521"
+     data-ad-slot="7802265894"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+		</aside><aside id="text-14" class="widget widget_text"><div class="section-head"><h3>Poker</h3></div>			<div class="textwidget"><a href="http://www.vegaspokerscene.com">Vegas Poker Scene</a></div>
+		</aside>
+	
+</div>
+
+				<div class="clear"></div>
+			</div> <!-- /content-inner -->
+		</div> <!-- /content-mid -->
+	</div> <!-- /content -->
+
+		<div id="footer" class="container">
+	<div class="row">
+			</div>
+</div>
+<div id="post-footer1" class="container">
+	<div class="row">
+		
+		<div id="theme-info"><table border="0" cellpadding="10" style="border: 10px; padding:10px; margin-left:auto; margin-right:auto;">
+<tbody><tr>
+<td style="padding: 4pt"></td>
+<td style="padding: 4pt"><a href="/" target="_top">Home</a></td>
+</tr></tbody></table><div style="text-align: center;">Copyright ©2001 - 2014 TheGolfCourses.Net</div></div>
+	</div>
+</div>
+	
+	
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var Vantage = {"ajaxurl":"\/golf\/wp-admin\/admin-ajax.php","current_url":"http:\/\/www.thegolfcourses.net\/golfcourses\/WI\/Wisconsin.htm"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thegolfcourses.net/golf/wp-content/themes/vantage/scripts/scripts.js?ver=1.3.2'></script>
+
+</body>
+</html>
+<!-- lite cache 2015-01-21 07:31:26 -->
