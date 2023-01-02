@@ -1,0 +1,15 @@
+User-agent: The Knowledge AI
+Disallow: /
+
+User-agent: *
+Disallow: /golf/wp-admin/
+Disallow: /golf/wp-includes/
+Disallow: /author/
+Disallow: /listings
+Disallow: /golfcourses/category/
+Disallow: /page/
+Disallow: /stateabbrev/
+Disallow: /*?*
+Disallow: /dashboard/
+Disallow: /submit-correction*
+Disallow: /submit-correction
