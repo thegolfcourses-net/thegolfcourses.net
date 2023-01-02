@@ -211,7 +211,7 @@ small {
 #masthead .row {
 	margin-top:15px;
 	margin-bottom:25px;
-	position: relative;
+	position: center;
 	overflow: hidden;
 }
 
