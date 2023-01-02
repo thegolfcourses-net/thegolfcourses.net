@@ -211,8 +211,9 @@ small {
 #masthead .row {
 	margin-top:15px;
 	margin-bottom:25px;
-	position: center;
+	position: relative;
 	overflow: hidden;
+	object-fit: scale-down;
 }
 
 #site-title a {
