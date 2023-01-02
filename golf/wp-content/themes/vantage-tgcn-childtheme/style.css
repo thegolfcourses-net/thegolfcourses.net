@@ -64,6 +64,7 @@ label {
 	max-width: 1140px;
 	min-width: 900px;
 	margin: 0 auto;
+	object-fit: scale-down;
 }
 
 .rounded {
@@ -213,7 +214,6 @@ small {
 	margin-bottom:25px;
 	position: relative;
 	overflow: hidden;
-	object-fit: scale-down;
 }
 
 #site-title a {
