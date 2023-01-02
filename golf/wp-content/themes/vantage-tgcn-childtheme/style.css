@@ -213,6 +213,7 @@ small {
 	margin-bottom:25px;
 	position: relative;
 	overflow: hidden;
+	object-fit: scale-down;
 }
 
 #site-title a {
@@ -220,7 +221,6 @@ small {
 	margin:0 0 0 0px;
 	display:block;
 	text-indent:-9999px;
-	object-fit: scale-down;
 }
 
 #site-description {
